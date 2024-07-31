@@ -1,6 +1,7 @@
 name = "dm8ty"
 pages_build_output_dir = ".svelte-kit/cloudflare"
 compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2022-04-05"
 
 [[kv_namespaces]]
 binding = "MIGHTY_KV"
