@@ -4,4 +4,4 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [[kv_namespaces]]
 binding = "MIGHTY_KV"
-id = "test"
+id = "4287aa742a7a4b7abdf06552bc4f949f"
