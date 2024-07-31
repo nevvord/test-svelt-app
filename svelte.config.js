@@ -11,7 +11,9 @@ export default {
 			},
 			platformProxy: {
 				configPath: 'wrangler.toml',
-				environment: undefined,
+				environment: {
+					MIGHTY_KV: '4287aa742a7a4b7abdf06552bc4f949f'
+				},
 				experimentalJsonConfig: false,
 				persist: false,
 				persist: './svelte-path',
