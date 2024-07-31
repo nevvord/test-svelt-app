@@ -1,1 +1,7 @@
-name = "test-svelte-app"
+name = "dm8ty"
+pages_build_output_dir = ".svelte-kit/cloudflare"
+compatibility_flags = [ "nodejs_compat" ]
+
+[[kv_namespaces]]
+binding = "MIGHTY_KV"
+id = "test"

@@ -13,7 +13,8 @@ export default {
 				configPath: 'wrangler.toml',
 				environment: undefined,
 				experimentalJsonConfig: false,
-				persist: false
+				persist: false,
+				persist: './svelte-path',
 			}
 		})
 	},
